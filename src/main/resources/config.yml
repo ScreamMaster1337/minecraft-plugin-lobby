@@ -1,0 +1,43 @@
+
+# LOBBY #
+lobby:
+  spawn:
+    x: 0.5
+    y: 63.0
+    z: 0.5
+    yaw: 0
+    pitch: 0
+
+# ITEMKI #
+items:
+  hide_players:
+    material: "LIME_DYE"
+    name: "&6Ukryj Graczy"
+    lore:
+      - "&8• &7Kliknij &6PPM, &7aby ukryć/pokazać graczy"
+  fly:
+    material: "FEATHER"
+    name: "&6Włącz fly"
+    lore:
+      - "&8• &7Kliknij &6PPM, &7aby włączyć/wyłączyć fly!"
+  lobby:
+    material: "COMPASS"
+    name: "&6Wybierz Tryb"
+    lore:
+      - "&8• &7Kliknij &6PPM, &7aby wybrać tryb!"
+
+
+# GUI #
+gui:
+  config:
+    rows: 3
+    columns: 9
+    title: "&6Wybierz Tryb"
+  items:
+    1:
+      material: "SHULKER_BOX"
+      name: "&6BoxPVP"
+      slot: 13
+      lore:
+        - "&8• &7Kliknij &6PPM, &7aby wybrać tryb &6BoxPVP!"
+      server: "main"

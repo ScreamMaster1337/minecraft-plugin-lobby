@@ -1,0 +1,8 @@
+name: m4code-lobby
+version: '${project.version}'
+main: pl.m4code.Main
+api-version: '1.16'
+softdepend: [PlaceholderAPI]
+author: ScreamMaster1337
+website: www.m4code.pl
+description: 'Plugin na serwer lobby'

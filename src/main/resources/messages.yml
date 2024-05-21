@@ -1,0 +1,22 @@
+# UKRYWANIE GRACZY #
+
+# wiadomosc gdy ukryjemy graczy
+hide_players: "&cPomyślnie ukryto graczy!"
+# wiadomosc gdy pokazemy graczy
+show_players: "&aPomyślnie pokazano graczy!"
+# wiadomosc cooldown na ukrywanie graczy
+cooldown_message_hide_players: "&4Błąd: &cAby ponownie użyć odczekaj &7{cooldown} &csekund"
+# cooldown na ukrywanie graczy
+cooldown_hide_players: 10
+
+# FLY #
+
+# wiadomosc gdy wlaczymy fly
+fly_enabled: "&7Tryb latania &awłączony!"
+# wiadomosc gdy wylaczymy fly
+fly_disabled: "&7Tryb latania &cwyłączony!"
+# wiadomosc cooldown na fly
+no_permission: "&4Błąd: &cNie posiadasz permisji!"
+cooldown_message_fly: "&4Błąd: &cAby ponownie użyć odczekaj &7{cooldown} &csekund."
+# cooldown na fly
+cooldown_fly: 5
